@@ -1,0 +1,2 @@
+# Awesome_Multi_Sensor_Fusion
+持续跟进学术界、工业界开源的一些多模态的感知解决方案。立个flag：对自己测试过效果的模型尽量都会提供一版dockerfile供大家快速测试
